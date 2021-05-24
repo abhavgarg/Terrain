@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\abhav\Desktop\RE proc methods\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\abhav\Desktop\RE proc methods\Engine\colour_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\abhav\Desktop\RE proc methods\Engine\colour_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\abhav\Desktop\RE proc methods\Engine\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\abhav\Desktop\RE proc methods\Engine\light_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

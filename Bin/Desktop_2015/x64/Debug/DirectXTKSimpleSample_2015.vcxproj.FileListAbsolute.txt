@@ -1,0 +1,2 @@
+C:\Users\abhav\Desktop\RE proc methods\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\abhav\Desktop\RE proc methods\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
